@@ -3,7 +3,7 @@
 This project analyzes mental health risk levels among employees based on survey data. The main focus is to categorize respondents into **Low**, **Medium**, and **High** risk groups and calculate their respective proportions.
 
 ## 📂 Dataset
-- **Source**: [Dataset name or link]
+- **Source**: https://www.kaggle.com/datasets/mahdimashayekhi/mental-health
 - **Contents**:
   - Respondent demographic data
   - Answers to mental health-related questions
